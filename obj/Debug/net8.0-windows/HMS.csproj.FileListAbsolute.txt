@@ -1,0 +1,286 @@
+C:\Users\ASUS\source\repos\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\ASUS\source\repos\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\ASUS\source\repos\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\ASUS\source\repos\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\ASUS\source\repos\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.Form1.resources
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HMS\HMS\obj\Debug\net8.0-windows\HMS.Reseption.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Form1.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Reseption.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.regNewPatient.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\BCI\Desktop\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\BCI\Desktop\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\BCI\Desktop\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Desktop\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.ReseptionDash.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.RecDash.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.regNewPat.resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS..resources
+C:\Users\BCI\Desktop\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.bookApp.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS..resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.bookApp.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.RecDash.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.registerPat.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.ReseptionDash.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.Up2Date
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewdoctor1.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.generatebills.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.recsearch.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.userdetails.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.appsearch.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.loginPage.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.docDash.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.DoctorDash.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.appDetails.resources
+C:\Users\BCI\Documents\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.DocApp.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS..resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.appDetails.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.appsearch.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.bookApp.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.DocApp.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.docDash.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.DoctorDash.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.generatebills.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.loginPage.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.RecDash.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.recsearch.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.registerPat.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.ReseptionDash.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.userdetails.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewdoctor1.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewPatRec.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.Up2Date
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addDash.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addNewDoc.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addNewRec.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewApp2.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewAppo.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewPatRec.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.Admin.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.manageUsers.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.resetPw.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewPatAdmin.resources
+C:\Users\BCI\Music\HMS\HMS\HMS\obj\Debug\net8.0-windows\HMS.sourcelink.json
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BCI\Music\HMS\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS..resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addDash.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addNewDoc.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addNewRec.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewApp2.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewAppo.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.addViewPatRec.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.Admin.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.appDetails.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.appsearch.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.bookApp.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.DocApp.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.docDash.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.DoctorDash.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.generatebills.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.loginPage.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.manageUsers.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.RecDash.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.recsearch.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.registerPat.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.ReseptionDash.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.resetPw.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.userdetails.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewdoctor1.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewPatAdmin.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.viewPatRec.resources
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.sourcelink.json
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\BCI\Music\HMS\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.csproj.Up2Date
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\BCI\Music\HMS\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\HMS.exe
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\HMS.deps.json
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\HMS.runtimeconfig.json
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\HMS.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\HMS.pdb
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.csproj.AssemblyReference.cache
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS..resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addDash.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addNewDoc.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addNewRec.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addViewApp2.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addViewAppo.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.addViewPatRec.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.Admin.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.appDetails.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.appsearch.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.bookApp.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.DocApp.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.docDash.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.DoctorDash.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.generatebills.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.loginPage.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.manageUsers.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.Properties.Resources.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.RecDash.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.recsearch.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.registerPat.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.ReseptionDash.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.resetPw.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.userdetails.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.viewdoctor1.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.viewPatAdmin.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.viewPatRec.resources
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.csproj.GenerateResource.cache
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfoInputs.cache
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.AssemblyInfo.cs
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.csproj.CoreCompileInputs.cache
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.sourcelink.json
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.csproj.Up2Date
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\refint\HMS.dll
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.pdb
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\HMS.genruntimeconfig.cache
+C:\Users\lakni\Desktop\HMS 2\HMS\obj\Debug\net8.0-windows\ref\HMS.dll
