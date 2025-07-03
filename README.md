@@ -94,5 +94,3 @@ The HMS follows a layered architecture:
 The Hospital Management System is designed to improve the efficiency of hospital operations and enhance patient care. By following the SDLC phases, the project aims to deliver a robust and user-friendly application that meets the needs of hospital staff and patients alike. Future updates and maintenance will ensure the system remains effective and secure.
 
 --- 
-
-This documentation serves as a comprehensive guide for the development, deployment, and maintenance of the Hospital Management System, ensuring all stakeholders are informed and aligned throughout the project lifecycle.
