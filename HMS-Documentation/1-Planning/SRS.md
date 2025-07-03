@@ -1,15 +1,19 @@
 # Software Requirements Specification (SRS)
+
 # Hospital Management System (HMS)
 
 ## 1. Introduction
 
 ### 1.1 Purpose
+
 This Software Requirements Specification (SRS) document provides a detailed description of the Hospital Management System (HMS). It outlines the functional and non-functional requirements, constraints, and specifications necessary for the development and implementation of the system.
 
 ### 1.2 Scope
+
 The Hospital Management System is designed to automate and streamline hospital operations, including patient management, appointment scheduling, doctor management, billing, and administrative tasks. The system aims to improve operational efficiency, enhance patient care, and facilitate better resource management within healthcare facilities.
 
 ### 1.3 Definitions, Acronyms, and Abbreviations
+
 - **HMS**: Hospital Management System
 - **UI**: User Interface
 - **CRUD**: Create, Read, Update, Delete
@@ -17,20 +21,25 @@ The Hospital Management System is designed to automate and streamline hospital o
 - **UAT**: User Acceptance Testing
 
 ### 1.4 References
+
 - Project Charter
 - System Design Documents
 - Database Schema
 
 ### 1.5 Overview
+
 The remaining sections of this document provide a detailed description of the HMS functionalities, constraints, assumptions, and dependencies. Section 2 outlines a general description of the system, Section 3 details specific requirements, and subsequent sections cover interface requirements, performance requirements, and other constraints.
 
 ## 2. Overall Description
 
 ### 2.1 Product Perspective
+
 The HMS is a standalone Windows application that interfaces with a MySQL database for data storage and retrieval. It operates within a hospital or healthcare facility's internal network environment and does not directly interact with external systems.
 
 ### 2.2 Product Functions
+
 The primary functions of the HMS include:
+
 - User authentication and authorization
 - Patient registration and record management
 - Appointment scheduling and management
@@ -40,6 +49,7 @@ The primary functions of the HMS include:
 - Administrative functions (user management, reporting)
 
 ### 2.3 User Classes and Characteristics
+
 The system accommodates three main user categories:
 
 1. **Administrative Staff**:
@@ -57,6 +67,7 @@ The system accommodates three main user categories:
    - Record diagnoses, prescriptions, and treatment plans
 
 ### 2.4 Operating Environment
+
 - **Hardware**: Standard desktop/laptop computers
 - **Operating System**: Windows 10/11
 - **Framework**: .NET Framework 4.7 or higher
@@ -64,6 +75,7 @@ The system accommodates three main user categories:
 - **Minimum Display Resolution**: 1366x768
 
 ### 2.5 Design and Implementation Constraints
+
 - The system must be developed using C# and .NET Framework
 - MySQL must be used for database management
 - The application must run on Windows operating systems
@@ -71,13 +83,16 @@ The system accommodates three main user categories:
 - User interface must follow modern design principles and be accessible
 
 ### 2.6 User Documentation
+
 The following user documentation will be provided:
+
 - Installation and setup guide
 - User manuals for each user type (admin, reception, doctor)
 - Training materials and quick reference guides
 - Database backup and recovery procedures
 
 ### 2.7 Assumptions and Dependencies
+
 - A stable network connection is available within the healthcare facility
 - Users have basic computer literacy
 - MySQL database server is properly installed and configured
@@ -88,6 +103,7 @@ The following user documentation will be provided:
 ### 3.1 External Interface Requirements
 
 #### 3.1.1 User Interfaces
+
 1. **Login Screen**:
    - Username and password fields
    - Role-based access control
@@ -108,11 +124,13 @@ The following user documentation will be provided:
    - Billing management
 
 #### 3.1.2 Hardware Interfaces
+
 - Compatible with standard input devices (keyboard, mouse)
 - Support for standard printers for report generation and bill printing
 - Compatible with barcode scanners for patient identification (optional)
 
 #### 3.1.3 Software Interfaces
+
 - MySQL Database (Version 8.0 or higher)
 - .NET Framework 4.7 or higher
 - Windows Operating System
@@ -217,12 +235,14 @@ The following user documentation will be provided:
 ### 3.3 Non-functional Requirements
 
 #### 3.3.1 Performance Requirements
+
 - The system shall support at least 50 concurrent users without performance degradation
 - Database operations shall complete within 3 seconds
 - The system shall handle a minimum of 10,000 patient records
 - Search operations shall return results within 2 seconds
 
 #### 3.3.2 Security Requirements
+
 - All user passwords shall be stored in encrypted form
 - User authentication shall be required for all system operations
 - The system shall implement role-based access control
@@ -230,21 +250,25 @@ The following user documentation will be provided:
 - Patient data shall be protected according to healthcare privacy standards
 
 #### 3.3.3 Usability Requirements
+
 - The user interface shall be intuitive and require minimal training
 - Error messages shall be clear and provide guidance for resolution
 - The system shall provide contextual help where appropriate
 - The interface shall be consistent across all modules
 
 #### 3.3.4 Reliability Requirements
+
 - The system shall have an uptime of at least 99.5%
 - The system shall include data backup and recovery mechanisms
 - The system shall validate all input data to prevent corruption
 
 #### 3.3.5 Availability Requirements
+
 - The system shall be available 24/7
 - Scheduled maintenance shall be conducted during off-peak hours
 
 #### 3.3.6 Scalability Requirements
+
 - The system shall accommodate a growing number of users and patients
 - The database shall be designed to efficiently handle increasing data volumes
 
@@ -253,9 +277,11 @@ The following user documentation will be provided:
 ### 4.1 User Authentication
 
 #### 4.1.1 Description
+
 Users must authenticate themselves before accessing the system.
 
 #### 4.1.2 Use Case
+
 1. User enters username and password
 2. System validates credentials
 3. System grants access based on user role
@@ -264,9 +290,11 @@ Users must authenticate themselves before accessing the system.
 ### 4.2 Patient Registration
 
 #### 4.2.1 Description
+
 Reception staff register new patients in the system.
 
 #### 4.2.2 Use Case
+
 1. Reception staff selects "Register New Patient"
 2. System displays patient registration form
 3. Staff enters patient details (name, contact, NIC, gender, DOB)
@@ -277,9 +305,11 @@ Reception staff register new patients in the system.
 ### 4.3 Appointment Booking
 
 #### 4.3.1 Description
+
 Staff schedule appointments for patients with doctors.
 
 #### 4.3.2 Use Case
+
 1. Staff searches for and selects a patient
 2. Staff selects "Book Appointment"
 3. System displays available doctors and time slots
@@ -291,9 +321,11 @@ Staff schedule appointments for patients with doctors.
 ### 4.4 Doctor Consultation
 
 #### 4.4.1 Description
+
 Doctors review patient information and record consultation details.
 
 #### 4.4.2 Use Case
+
 1. Doctor logs in and views scheduled appointments
 2. Doctor selects a patient appointment
 3. System displays patient information and medical history
@@ -305,9 +337,11 @@ Doctors review patient information and record consultation details.
 ### 4.5 Billing Process
 
 #### 4.5.1 Description
+
 Staff generate and process bills for services rendered.
 
 #### 4.5.2 Use Case
+
 1. Staff selects a completed appointment
 2. Staff selects "Generate Bill"
 3. System calculates charges based on services provided
@@ -319,6 +353,7 @@ Staff generate and process bills for services rendered.
 ## 5. Data Management
 
 ### 5.1 Data Entities
+
 1. **Users**: Admin, Doctor, Reception staff
 2. **Patients**: Personal and contact information
 3. **Appointments**: Scheduling information
@@ -326,6 +361,7 @@ Staff generate and process bills for services rendered.
 5. **Bills**: Payment information
 
 ### 5.2 Data Relationships
+
 - Users manage Patients and Appointments
 - Patients have multiple Appointments and Medical Records
 - Appointments are linked to specific Doctors
@@ -333,6 +369,7 @@ Staff generate and process bills for services rendered.
 - Bills are generated from Appointments and Medical Records
 
 ### 5.3 Data Integrity
+
 - Referential integrity must be maintained across all related entities
 - Data validation must be performed at both application and database levels
 - Audit trails must track changes to critical data
@@ -340,28 +377,33 @@ Staff generate and process bills for services rendered.
 ## 6. System Quality Attributes
 
 ### 6.1 Usability
+
 - Consistent UI design across all modules
 - Intuitive navigation and workflow
 - Clear error messages and feedback
 - Context-sensitive help
 
 ### 6.2 Reliability
+
 - Automatic data backup
 - Error handling and recovery procedures
 - Input validation to prevent data corruption
 
 ### 6.3 Performance
+
 - Quick response times for common operations
 - Efficient database queries
 - Optimized resource usage
 
 ### 6.4 Security
+
 - Role-based access control
 - Encrypted storage of sensitive data
 - Audit trails for critical operations
 - Session management and timeout
 
 ### 6.5 Maintainability
+
 - Modular design for easier updates
 - Comprehensive documentation
 - Consistent coding standards
@@ -370,12 +412,14 @@ Staff generate and process bills for services rendered.
 ## 7. Implementation Constraints
 
 ### 7.1 Development Environment
+
 - Microsoft Visual Studio 2022
 - .NET Framework 4.7 or higher
 - MySQL Database Server
 - Git for version control
 
 ### 7.2 Deployment Environment
+
 - Windows 10/11 operating system
 - MySQL Server installed and configured
 - Minimum 8GB RAM
@@ -384,7 +428,9 @@ Staff generate and process bills for services rendered.
 ## 8. Appendices
 
 ### 8.1 Database Schema
+
 The database will include tables for:
+
 - users
 - patients
 - doctors
@@ -394,7 +440,9 @@ The database will include tables for:
 - bills
 
 ### 8.2 User Interface Mockups
+
 Separate documentation includes mockups for:
+
 - Login screen
 - Admin dashboard
 - Doctor dashboard
@@ -404,6 +452,7 @@ Separate documentation includes mockups for:
 - Billing screen
 
 ### 8.3 Glossary
+
 - **Patient**: An individual receiving medical care
 - **Appointment**: A scheduled meeting between a patient and doctor
 - **Diagnosis**: Identification of a medical condition
@@ -413,6 +462,7 @@ Separate documentation includes mockups for:
 ## 9. Approval
 
 This Software Requirements Specification document requires approval from:
+
 - Project Manager
 - Lead Developer
 - Client Representative
